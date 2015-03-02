@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DAC36745-A999-4A76-8F7E-10FC39231D80</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cpp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>53CBD8817532D2DF0BAC1942FE6E26924463445E</key>
+		<string>https://github.com/wenyueyuno/Lessons.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cpp/cpp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>53CBD8817532D2DF0BAC1942FE6E26924463445E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wenyueyuno/Lessons.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>53CBD8817532D2DF0BAC1942FE6E26924463445E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>53CBD8817532D2DF0BAC1942FE6E26924463445E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lessons</string>
+		</dict>
+	</array>
+</dict>
+</plist>
